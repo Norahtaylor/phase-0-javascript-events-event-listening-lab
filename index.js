@@ -1,2 +1,5 @@
-function addingEventListener() {
+function addingEventListener(){
+input.addEventListener("click", () =>
+    alert('I was clicked'))
 }
+
